@@ -1,5 +1,5 @@
-SaaS-Cookbook-List
-==================
+Cookbook and best practice list for SaaS developers
+===================================================
 
 List of Cookbook and best practices about SaaS development (ENG/FR).
 
@@ -32,3 +32,5 @@ Enjoy
 - [ENG] [CDN configuration](http://blog.cloudflare.com/cloudflare-tips-recommended-steps-for-new-use)
 - [ENG] [Security](https://support.cloudflare.com/hc/en-us/articles/200170166)
 
+### Facebook API
+- [ENG] [Plateform policy / best practice](https://developers.facebook.com/policy)
