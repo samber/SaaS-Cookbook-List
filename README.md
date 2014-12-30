@@ -14,6 +14,7 @@ Enjoy
 - [ENG] You MUST read the [*Reactive* manifesto](http://www.reactivemanifesto.org) !!
 - [ENG] You MUST read (part of ^^) [REST definition](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [ENG] [Cache strategy](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) by Google
+- [ENG] Tools and designs to build scalable apps [Scalable architectures](http://aosabook.org/en/distsys.html)
 
 ### Emails
 - [ENG] [Best practices](http://documentation.mailgun.com/best_practices.html), by *Mailgun*
