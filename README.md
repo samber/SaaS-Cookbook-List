@@ -18,6 +18,7 @@ Enjoy
 
 ### Emails
 - [ENG] [Best practices](http://documentation.mailgun.com/best_practices.html), by *Mailgun*
+- [ENG] [Spam checker](http://www.mail-tester.com)
 
 ### Website development
 - [ENG] [Todo-list](http://webdevchecklist.com) for web developers
