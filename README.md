@@ -23,6 +23,9 @@ Enjoy
 ### Website development
 - [ENG] [Todo-list](http://webdevchecklist.com) for web developers
 
+### Other
+- [ENG] [Awesome currated lists of ressources](https://github.com/sindresorhus/awesome) for developers and sys-admin
+- [ENG] [Awesome currated list of datasets](https://github.com/caesar0301/awesome-public-datasets) for dataminers
 
 ## Specific
 
